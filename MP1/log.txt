@@ -1,0 +1,15 @@
+iMan sleep 
+iMan sleep
+iMan echo
+iMan sleep
+sleep 3
+sleep 3 &
+sleep 5 &
+activities
+neonate -n 1
+echo hi
+neonate -n 1
+sleep 2
+neonate -n 1
+echo hi
+neonate -n 1
